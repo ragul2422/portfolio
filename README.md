@@ -1,1 +1,1 @@
-# portfolio
+Welcome to my personal portfolio repository! I’m Ragul R, a passionate and dedicated BE-CSE student. This portfolio showcases a collection of my projects, skills.I’ve embarked on a journey to create innovative solutions that blend cutting-edge technology with creative insights. Whether it’s web development, app creation, each project reflects my commitment to learning and growth. Explore my work to witness how I’ve translated ideas into tangible results.Thank you for visiting my portfolio!
